@@ -1,0 +1,43 @@
+{
+    "employers": [
+      {
+        "id": 1,
+        "employees": [
+          { "name": "John Smith", "position": "Manager" },
+          { "name": "Jane Doe", "position": "Software Engineer" },
+          { "name": "Michael Johnson", "position": "Data Analyst" }
+        ]
+      },
+      {
+        "id": 2,
+        "employees": [
+          { "name": "Emily Brown", "position": "HR Specialist" },
+          { "name": "David Wilson", "position": "Marketing Manager" }
+        ]
+      },
+      {
+        "id": 3,
+        "employees": [
+          { "name": "Linda Davis", "position": "Accountant" },
+          { "name": "Richard White", "position": "Sales Representative" },
+          { "name": "Susan Anderson", "position": "Product Manager" }
+        ]
+      },
+      {
+        "id": 4,
+        "employees": [
+          { "name": "William Martin", "position": "QA Engineer" },
+          { "name": "Sarah Garcia", "position": "Graphic Designer" }
+        ]
+      },
+      {
+        "id": 5,
+        "employees": [
+          { "name": "James Wilson", "position": "Customer Support" },
+          { "name": "Mary Taylor", "position": "Financial Analyst" },
+          { "name": "Christopher Thomas", "position": "Operations Manager" }
+        ]
+      }
+    ]
+  }
+  
